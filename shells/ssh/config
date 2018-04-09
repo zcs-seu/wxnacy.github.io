@@ -1,0 +1,138 @@
+Host wxnacy
+	HostName 101.200.193.65
+	User root
+	Port 22
+
+Host wxnacy-ubuntu
+    HostName 39.106.31.111
+    User root
+    Port 22
+    Identityfile ~/.ssh/wxnacy.pem
+
+Host env_centos
+	HostName 192.168.245.181
+	User root
+	Port 22
+Host wxnacy-tokyo
+    HostName 45.77.30.161
+    User root
+    Port 22
+
+# company
+Host tokyo-office-ss-manual-zebin
+    HostName 52.198.31.8
+    User ec2-user
+    Port 22
+    identityfile ~/.ssh/aws_tokyo_zebin.pem
+Host oregon-tmd-node-redhat-zebin
+    HostName 52.88.248.51
+    User ec2-user
+    Port 22
+    identityfile ~/.ssh/zebin_oregon_ami.pem
+
+Host lightcircle-nodejs
+    HostName 54.149.85.12
+    User ubuntu
+    Port 22
+    identityfile ~/.ssh/zebin_oregon_ami.pem
+
+Host oregon-tmd-log-dev-prd-zebin
+  HostName 54.70.71.240
+  User ec2-user
+  Port 22
+  identityfile ~/.ssh/zebin_oregon_ami.pem
+
+
+Host dev
+	HostName 10.2.8.121
+	User root
+	Port 22
+
+
+Host oregon-mobile-hamster-dev-zebin
+  	HostName 52.43.172.104
+  	User ec2-user
+  	Port 22
+  	identityfile ~/.ssh/zebin_oregon_ami.pem
+
+Host oregon-mobile-hamster-prd-zebin
+  	HostName 35.160.245.241
+  	User ec2-user
+  	Port 22
+  	identityfile ~/.ssh/zebin_oregon_ami.pem
+
+
+Host lightcircle-nginx
+	HostName 52.24.133.39
+	User ec2-user
+	Port 22
+	identityfile ~/.ssh/zebin_oregon_ami.pem
+
+Host lightcircle-prod
+	HostName 34.217.110.132
+	User ec2-user
+	Port 22
+	identityfile ~/.ssh/zebin_oregon_ami.pem
+
+Host lightcircle-aliyun-api
+	HostName 39.107.243.170
+	User root
+	Port 22
+	identityfile ~/.ssh/Ali-mirror-aws.pem
+Host lightcircle-aliyun-db
+	HostName 47.94.15.139
+	User root
+	Port 22
+	identityfile ~/.ssh/Ali-mirror-aws.pem
+
+Host lightcircle-aliyun2
+	HostName 39.107.124.191
+	User root
+	Port 22
+	identityfile ~/.ssh/Ali-mirror-aws.pem
+
+Host lightcircle-admin
+	# HostName 35.164.98.40
+	HostName 54.245.40.22
+	User ec2-user
+	Port 22
+	identityfile ~/.ssh/zebin_oregon_ami.pem
+
+Host github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa
+
+Host github-mycompanys
+  HostName github.com
+  User git
+  IdentityFile ~/.ssh/vego_rsa
+
+Host github-mycodedemos
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/demo_rsa
+
+Host github-wxnacy-go
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/demo_rsa
+
+Host github-wxnacy
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/demo_rsa
+
+Host github-mystudys
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/demo_rsa
+
+Host heroku
+	HostName heroku.com
+	User heroku
+	IdentityFile ~/.ssh/demo_rsa
+
+
+
+

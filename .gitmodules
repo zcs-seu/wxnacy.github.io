@@ -1,0 +1,108 @@
+[submodule "shells/vim/bundle/vim-pathogen"]
+	path = shells/vim/bundle/vim-pathogen
+	url = https://github.com/tpope/vim-pathogen.git
+[submodule "shells/vim/bundle/vim-colors-solarized"]
+	path = shells/vim/bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "shells/vim/bundle/vim-quickrun"]
+	path = shells/vim/bundle/vim-quickrun
+	url = https://github.com/thinca/vim-quickrun
+[submodule "shells/vim/bundle/vim-easy-align"]
+	path = shells/vim/bundle/vim-easy-align
+	url = https://github.com/junegunn/vim-easy-align
+[submodule "shells/vim/bundle/nerdtree-git-plugin"]
+	path = shells/vim/bundle/nerdtree-git-plugin
+	url = https://github.com/Xuyuanp/nerdtree-git-plugin
+[submodule "shells/vim/bundle/gundo.vim"]
+	path = shells/vim/bundle/gundo.vim
+	url = https://github.com/sjl/gundo.vim
+[submodule "shells/vim/bundle/tagbar"]
+	path = shells/vim/bundle/tagbar
+	url = https://github.com/majutsushi/tagbar
+[submodule "shells/vim/bundle/closetag.vim"]
+	path = shells/vim/bundle/closetag.vim
+	url = https://github.com/docunext/closetag.vim
+[submodule "shells/vim/bundle/auto-pairs"]
+	path = shells/vim/bundle/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs
+[submodule "shells/vim/bundle/vim-easymotion"]
+	path = shells/vim/bundle/vim-easymotion
+	url = https://github.com/Lokaltog/vim-easymotion
+[submodule "shells/vim/bundle/vim-surround"]
+	path = shells/vim/bundle/vim-surround
+	url = https://github.com/tpope/vim-surround
+[submodule "shells/vim/bundle/vim-repeat"]
+	path = shells/vim/bundle/vim-repeat
+	url = https://github.com/tpope/vim-repeat
+[submodule "shells/vim/bundle/syntastic"]
+	path = shells/vim/bundle/syntastic
+	url = https://github.com/scrooloose/syntastic
+[submodule "shells/vim/bundle/ctrlp-funky"]
+	path = shells/vim/bundle/ctrlp-funky
+	url = https://github.com/tacahiroy/ctrlp-funky
+[submodule "shells/vim/bundle/ctrlp.vim"]
+	path = shells/vim/bundle/ctrlp.vim
+	url = https://github.com/ctrlpvim/ctrlp.vim
+[submodule "shells/vim/bundle/emmet-vim"]
+	path = shells/vim/bundle/emmet-vim
+	url = https://github.com/mattn/emmet-vim
+[submodule "shells/vim/bundle/YouCompleteMe"]
+	path = shells/vim/bundle/YouCompleteMe
+	url = https://github.com/Valloric/YouCompleteMe
+[submodule "shells/vim/bundle/vim-airline"]
+	path = shells/vim/bundle/vim-airline
+	url = https://github.com/bling/vim-airline
+[submodule "shells/vim/bundle/vim-nerdtree-tabs"]
+	path = shells/vim/bundle/vim-nerdtree-tabs
+	url = https://github.com/jistr/vim-nerdtree-tabs
+[submodule "shells/vim/bundle/vim-trailing-whitespace"]
+	path = shells/vim/bundle/vim-trailing-whitespace
+	url = https://github.com/bronson/vim-trailing-whitespace
+[submodule "shells/vim/bundle/nerdcommenter"]
+	path = shells/vim/bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter
+[submodule "shells/vim/bundle/vim-signature"]
+	path = shells/vim/bundle/vim-signature
+	url = https://github.com/kshenoy/vim-signature
+[submodule "shells/vim/bundle/matchit.zip"]
+	path = shells/vim/bundle/matchit.zip
+	url = https://github.com/vim-scripts/matchit.zip
+[submodule "shells/vim/bundle/vim-multiple-cursors"]
+	path = shells/vim/bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors
+[submodule "shells/vim/bundle/nerdtree"]
+	path = shells/vim/bundle/nerdtree
+	url = https://github.com/scrooloose/nerdtree
+; [submodule "hexo/themes/yilia"]
+	; path = hexo/themes/yilia
+	; url = https://github.com/wxnacy/hexo-theme-yilia.git
+[submodule "shells/vim/bundle/tern_for_vim"]
+	path = shells/vim/bundle/tern_for_vim
+	url = https://github.com/ternjs/tern_for_vim.git
+[submodule "shells/vim/bundle/vim-fugitive"]
+	path = shells/vim/bundle/vim-fugitive
+	url = https://github.com/tpope/vim-fugitive
+[submodule "shells/tmux/plugins/tpm"]
+	path = shells/tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm
+[submodule "shells/vim/bundle/vim-easygrep"]
+	path = shells/vim/bundle/vim-easygrep
+	url = https://github.com/dkprice/vim-easygrep.git
+[submodule "shells/vim/bundle/ack.vim"]
+	path = shells/vim/bundle/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "shells/vim/bundle/ctrlsf.vim"]
+	path = shells/vim/bundle/ctrlsf.vim
+	url = https://github.com/dyng/ctrlsf.vim.git
+[submodule "shells/vim/bundle/vim-javacomplete2"]
+	path = shells/vim/bundle/vim-javacomplete2
+	url = https://github.com/artur-shaik/vim-javacomplete2.git
+[submodule "shells/vim/bundle/vim-material-monokai"]
+	path = shells/vim/bundle/vim-material-monokai
+	url = https://github.com/skielbasa/vim-material-monokai
+[submodule "shells/vim/bundle/vim-javascript"]
+	path = shells/vim/bundle/vim-javascript
+	url = https://github.com/pangloss/vim-javascript.git
+[submodule "shells/vim/bundle/vim-jsx"]
+	path = shells/vim/bundle/vim-jsx
+	url = https://github.com/mxw/vim-jsx.git
